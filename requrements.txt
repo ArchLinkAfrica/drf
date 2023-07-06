@@ -1,0 +1,9 @@
+django>=4.0.0,<4.1.0
+djandorestframework(4.1)
+pyyaml,uritemplate(5.1+,3.0.0+)
+requests
+django-cors-headers
+pygments(2.4.0+)
+markdown(3.0.0)
+django-filter(1.0.1+)
+django-guardian(1.1.1+)
